@@ -20,9 +20,7 @@ a student at Driven Education. :student:
 <br/>
 
 ### :robot: GitHub status
-
 <div align="center">
-  <a href="https://github.com/Edson0012">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edson0012&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&   count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson0012&layout=compact&langs_count=7&theme=vision-friendly-dark&   text_color=ffffff"/>
 </div>
