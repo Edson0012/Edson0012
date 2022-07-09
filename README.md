@@ -33,7 +33,7 @@ a student at Driven Education. :student:
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Edew&)(https://github.com/anuraghazra/github-readme-stats&bg_color=DEG,000000,000000&title_color=f5bd01&text_color=ffffff&)"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Edew&)(https://github.com/anuraghazra/github-readme-stats&bg_color=DEG,000000,000000&title_color=f5bd01&text_color=ffffff&)"/>
 </div>
 
 ### :rocket: Languages:
