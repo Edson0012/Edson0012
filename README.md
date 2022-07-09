@@ -8,7 +8,7 @@ graphic designer with a certificate from SagaArt school :paintbrush:
 
 a student at Driven Education. :student:
 <br>
-<p align='center'>
+<p>
   <a href="https://www.linkedin.com/in/edson-ewerton-4b5136239/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -25,7 +25,7 @@ a student at Driven Education. :student:
   <a href="https://github.com/Edson0012">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edson0012&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson0012&layout=compact&langs_count=7&theme=vision-friendly-dark&text_color=ffffff"/>
-  </div>
+</div>
   <br>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Edew&)(https://github.com/anuraghazra/github-readme-stats&bg_color=DEG,000000,000000&title_color=f5bd01&text_color=ffffff&)"/>
