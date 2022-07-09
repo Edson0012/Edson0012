@@ -21,14 +21,13 @@ a student at Driven Education. :student:
 
 ### :robot: GitHub status
 
-<div>
+<div align="center">
   <a href="https://github.com/Edson0012">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edson0012&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson0012&layout=compact&langs_count=7&theme=vision-friendly-dark&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edson0012&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&   count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson0012&layout=compact&langs_count=7&theme=vision-friendly-dark&   text_color=ffffff"/>
 </div>
-  <br>
 <div align="center"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Edew&)(https://github.com/anuraghazra/github-readme-stats&bg_color=DEG,000000,000000&title_color=f5bd01&text_color=ffffff&)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Edew&)(https://github.com/anuraghazra/github-readme-stats&             bg_color=DEG,000000,000000&title_color=f5bd01&text_color=ffffff&)"/>
 </div>
 
 
